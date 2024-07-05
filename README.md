@@ -4,9 +4,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
-<a href="https://www.linkedin.com/in/foysal-nur-onthor">
-<img src="https://github.com/Foysal79/Foysal79/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner%20(1).png?raw=true" />
-</a>
+
 
 <br />
 
