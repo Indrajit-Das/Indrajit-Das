@@ -13,13 +13,6 @@
   I am Web Devloper . I craft interactive web experiences by combining HTML5, CSS3, and JavaScript. Proficient in React.js I build and learning small web  applications, leveraging each technology's strengths to create dynamic and engaging digital solutions.
 </p>
 
-## 📈 Current Stats
-<br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Foysal79&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=e6b410&sideLabels=0849c9&currStreakNum=680acc&ring=680acc&currStreakLabel=680acc&sideNums=0849c9" />
-</p>
-
-
 
 ## 📧: Reach me out
 
@@ -27,8 +20,7 @@
 
 <p align="center">
 <a align="center"  href="https://www.linkedin.com/in/indrajit-das-70-developer/" target="blank">
-<img  src="https://github.com/Foysal79/Foysal79/blob/main/linkedin_174857.png?raw=true" alt="onthor_79" height="75" width="75" />
-
+<img  src="https://github.com/Foysal79/Foysal79/blob/main/linkedin_174857.png?raw=true" alt="indrojit" height="75" width="75" />
 </a>
 </p>
 
@@ -48,15 +40,6 @@
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
 
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/c.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/cpp.png"/>
-
-
-
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 
 
 </p>
@@ -68,18 +51,18 @@
 
 
 ### 🔭 I’m Web Developer .
-### 🏁 trarget next 2 year juior web developer to senior web developer .
-### 🌱 I’m exploring - MERN Stack .
-### 🤔 I’m trying - To  learn algorithom and data Strature. 
+### 🏁 trarget next 2 year junior web developer to senior web developer .
+### 🌱 I’m exploring - Frontend Development .
+### 🤔 I’m trying - To  learn New Frontend Technologies. 
 ### ⚡ Fun fact - I love to make complex origami and I can speak 3 languages.
-### 📫 my Email **foysal.nur.onthor@gmail.com**
+### 📫 my Email **indrojit70@gmail.com**
 
 
 <br />
 
 # ♟️ Latest Project
 <br />
-
+<!-- 
 ✈️ **OnTrip ( Travel Guide Website )**
 
 [OnTrip Live Link](https://goexplor-e8ca8.web.app/)
@@ -137,7 +120,7 @@ interface .
 </li>
 
 </ul>
-
+-->
 
 <br />
 <br />
