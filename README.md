@@ -10,14 +10,11 @@
 
 # 👨‍🦱 About Me
 <p>
-  I am Web Devloper . I craft interactive web experiences by combining HTML5, CSS3, and JavaScript. Proficient in MERN (MongoDB, Express.js, React.js, Node.js), I build OnTrip, full-stack applications, leveraging each technology's strengths to create dynamic and engaging digital solutions.
+  I am Web Devloper . I craft interactive web experiences by combining HTML5, CSS3, and JavaScript. Proficient in React.js I build and learning small web  applications, leveraging each technology's strengths to create dynamic and engaging digital solutions.
 </p>
 
 ## 📈 Current Stats
 <br />
-
-
-
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Foysal79&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=e6b410&sideLabels=0849c9&currStreakNum=680acc&ring=680acc&currStreakLabel=680acc&sideNums=0849c9" />
 </p>
@@ -28,9 +25,8 @@
 
 <br />
 
-
 <p align="center">
-<a align="center"  href="https://www.linkedin.com/in/foysal-nur-onthor/" target="blank">
+<a align="center"  href="https://www.linkedin.com/in/indrajit-das-70-developer/" target="blank">
 <img  src="https://github.com/Foysal79/Foysal79/blob/main/linkedin_174857.png?raw=true" alt="onthor_79" height="75" width="75" />
 
 </a>
